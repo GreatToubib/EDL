@@ -5,26 +5,19 @@
  */
 package umons.fpms.ig19;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.Reader;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
-import org.apache.ibatis.jdbc.ScriptRunner;
+import org.apache.*;
+
+import java.io.*;
+import java.sql.*;
 
 /**
  *
  * @author noffa
  */
 public class DataAccess {
-    public static final String DBNAME = "test_java";
-    private static final String DBUSER = "root";
-    private static final String DBPASS = "";
+    public static final String DBNAME = "labonneDB";
+    private static final String DBUSER = "user005";
+    private static final String DBPASS = "user005";
     private static final String DBHOST = "localhost";
     private static final String DBSERVER = "mysql";
     private static final String DBPORT = "3306";
