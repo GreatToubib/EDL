@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
 
-class ProduitTest {
+public class ProduitTest {
 
     @Test
     public void multiEquals() {
