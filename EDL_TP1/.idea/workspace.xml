@@ -29,7 +29,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/EDL/Projets/Money" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -111,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573649506146</updated>
-      <workItem from="1573649516288" duration="4796000" />
+      <workItem from="1573649516288" duration="5142000" />
     </task>
     <servers />
   </component>
